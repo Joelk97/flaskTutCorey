@@ -1,0 +1,2 @@
+FLASK_APP=flaskBlog.py
+FLASK_DEBUG=True
